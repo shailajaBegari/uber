@@ -1,0 +1,65 @@
+[
+    {
+        "Id":"1",
+        "Name":"kumar",
+        "Isriding":false,
+        "Cardetails":{
+            "Num":"5678",
+            "Vcolor":"blue",
+            "Mobile":"9989454089",
+            "Brand":"BMW",
+            "Otp":4568    
+        },
+        "Cash":0,
+        "Location":"sarjapur",
+        "Type":"mini"
+    },
+    {
+        "Id":"2",
+        "Name":"chinna",
+        "Isriding":true,
+        "Cardetails":{
+            "Num":"6743",
+            "Vcolor":"RED",
+            "Mobile":"9989454089",
+            "Brand":"BMW",
+            "Otp":2345    
+        },
+        "Cash":0,
+        "Location":"hyd",
+        "Type":"primeplay"
+    },
+    {
+        "Id":"3",
+        "Name":"Elisha",
+        "Isriding":false,
+        "Cardetails":{
+            "Num":"4055",
+            "Vcolor":"white",
+            "Mobile":"9951998456",
+            "Brand":"ody",
+            "Otp":4563    
+        },
+        "Cash":0,
+        "Location":"SRD",
+        "Type":"auto"
+    },
+    {
+        "Id":"4",
+        "Name":"Mosha",
+        "Isriding":false,
+        "Cardetails":{
+            "Num":"8055",
+            "Vcolor":"Black",
+            "Mobile":"9963408589",
+            "Brand":"BMW",
+            "Otp":1245    
+        },
+        "Cash":0,
+        "Location":"ZHB",
+        "Type":"Prime_sedan"
+    }
+
+
+
+]
